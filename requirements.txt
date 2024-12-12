@@ -1,0 +1,3 @@
+rubpy
+requests
+pillow
