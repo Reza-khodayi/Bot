@@ -1,3 +1,2 @@
 rubpy
 requests
-pillow
